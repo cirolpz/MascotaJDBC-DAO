@@ -1,5 +1,6 @@
 
 # MascotaJDBC-DAO
+![Captura de pantalla 2024-12-07 013219](https://github.com/user-attachments/assets/ec7e85a6-7383-48c1-833f-9c2b18f962d5)
 
 Este proyecto lo realicé para aprender JDBC y DAO en el bootcamp EGG.
 
